@@ -2,9 +2,11 @@
 
 hideipnetwork was developed to evade censorship on the web
 
-**`Demo`**：[https://hideip.network](https://hideip.network)
+**`Demo`** ：[https://hideip.network](https://hideip.network/)
 
 ---
+
+**💨Server Sponsor：[dartnode](https://dartnode.com/)**
 
 ## 😃Quickstart
 
@@ -20,25 +22,25 @@ npm install
 npm run start
 ```
 
-if you don`t how to use ,please visite [official.hideip.network](https://official.hideip.network)
+if you don`t how to use ,please visite [official.hideip.network](https://official.hideip.network/)
 
 ## 😃Custom search engine
 
 ```
-https://hideip.netowrk/?s=#%s
+https://hideip.network/?s=#%s
 ```
 
-![](https://iimg.pro/images/HWhLTOP.png)
+[![](https://camo.githubusercontent.com/a38de049efa1964658e34fa64fb1398353ec4083e52eba0aa9654603ed3d16d9/68747470733a2f2f7075626c69632e616973622e746f702f65303665386130656631613031386437623639343464663933366632613363312f487956554439532e706e67)
 
 ## 📃Configuration instructions
 
-| .env| default|**Remark**|
-| --- | --- | --- |
-| PORT | 56559 | server port |
-| HOST | 0.0.0.0 | server resolve ip (docker `0.0.0.0`) other `127.0.0.1`|
-| MODO| normal| if you need `socks5 `,change mode to `MODO = socks5`  |
+| .env | default | **Remark**                                               |
+| ------ | --------- | ---------------------------------------------------------------- |
+| PORT | 56559   | server port                                                    |
+| HOST | 0.0.0.0 | server resolve ip (docker `0.0.0.0`) other `127.0.0.1` |
+| MODO | normal  | if you need `socks5 `,change mode to `MODO = socks5`   |
 
-###### * socks5  files are in the directory `proxy/socks5.txt`
+###### * socks5 files are in the directory `proxy/socks5.txt`
 
 ## 🔨Use v2ray|Clash
 
@@ -50,9 +52,9 @@ If you want to use the proxy of the airport, please install any client that supp
 * BTC：3M2RajZ2gFGsozqC8wjwqa9K4HtKMERZQ5
 * ETH(ERC20)：0x0019985c47d1181e172ca8fd1d375bbc2593ffa6
 
-## 🖨Contact
+## 🖨TG Group
 
-![](https://store.heytapimage.com/cdo-portal/feedback/202207/02/b705611e231f230f2fec150f35221c0b.png)
+tg：[@hideipnetwork](https://t.me/hideipnetwork/)
 
 ## 📋Notice
 
@@ -60,7 +62,6 @@ Developers with code cleanliness please open it yourself
 
 ## 🎞Example
 
-![](https://alis.pages.dev/file/8e00c895d4eba38855953.png)
-![](https://alis.pages.dev/file/d3a9602d60f4f7fcea23c.png)
-![](https://alis.pages.dev/file/4c62b7652dbeaa9677827.png)
+[![JYmVgcJ.md.png](https://iili.io/JYmVgcJ.md.png)](https://freeimage.host/i/JYmVgcJ)
 
+[![JYmVvMF.md.png](https://iili.io/JYmVvMF.md.png)](https://freeimage.host/i/JYmVvMF)
