@@ -4,10 +4,6 @@ hideipnetwork was developed to evade censorship on the web
 
 **`Demo`** ：[https://hideip.network](https://hideip.network/)
 
----
-
-**💨Server Sponsor：[dartnode](https://dartnode.com/)**
-<a href="https://dartnode.com/" ><img src="https://iili.io/JYpdcOX.png" height="80"></a>
 
 ## 😃Quickstart
 
