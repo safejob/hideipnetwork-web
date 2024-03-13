@@ -8,7 +8,7 @@ let BAREURL = '/bare/';
  * Non-developers, please modify without authorization, 98% report errors!
 */
 self.__uv$config = {
-    prefix: `/aHR0cHM6Ly9naXRodWIuY29tL2hpZGVpcG5ldHdvcms=/`,
+    prefix: `/web/`,
     bare: `${BAREURL}`,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
