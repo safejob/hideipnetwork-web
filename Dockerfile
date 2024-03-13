@@ -12,3 +12,5 @@ RUN git clone -b v2 https://github.com/safejob/hideipnetwork-web.git . && npm in
 EXPOSE 56559
 
 CMD ["npm", "run", "start"]
+#docker builder prune --all --force
+#docker build . -t registry-vpc.cn-hangzhou.aliyuncs.com/keruyun/op-hnet:v1
